@@ -72,7 +72,7 @@ prevsign = ''
 })
 
 twit.addEventListener("click", function() {
-  location.assign("https://twitter.com/__Urama");
+  location.assign("https://twitter.com/goody__boy");
 })
 
 num.forEach(btn => btn.addEventListener("click", function(){
